@@ -1,0 +1,8 @@
+# Topics:
+-> Set up environment
+-> Basics + Data Types
+-> Data stuctures
+-> OOPS
+-> functional programming
+-> Recursion + Callback
+-> common modules
