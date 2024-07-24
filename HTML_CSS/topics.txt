@@ -1,0 +1,7 @@
+# Topics:
+-> environment
+-> Basic html
+-> css basics
+-> tailwind
+-> use of figma
+-> backend
