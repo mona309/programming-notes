@@ -1,0 +1,7 @@
+# Topics:
+-> Set up environment
+-> Basics + Data Types
+-> Data stuctures
+-> pointers
+-> Recursion + Callback
+-> common modules + debugging
